@@ -292,18 +292,6 @@ function resetCalculator() {
    <h3>Dessert</h3>
 
   <div style="margin-bottom: 10px;"></div>
-  
- <div>
-    <input type="checkbox" id="Davechoice" value="150$">
-    <label for="Davechoice">Homemade Cookie - $</label>150
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="150$">
-    <label for="Davechoice">Apple Crumble - $</label>150
-    <input type="number" value="1" min="1">
-  </div>
 
   <div>
     <input type="checkbox" id="Davechoice" value="125$">
@@ -328,12 +316,6 @@ function resetCalculator() {
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="500$">
-    <label for="Davechoice">Double Shot Meal(Meteorite Ice Cream)- $</label>500
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
     <input type="checkbox" id="Davechoice" value="2500$">
     <label for="Davechoice">The Italian Job- $</label>2500
     <input type="number" value="1" min="1">
@@ -350,7 +332,7 @@ function resetCalculator() {
  
    <div>
     <input type="checkbox" id="Davechoice" value="1600$">
-    <label for="Davechoice">10- Cat Tuccinos - $</label>1600
+    <label for="Davechoice">10- Espressos - $</label>1600
     <input type="number" value="1" min="1">
   </div>
 
@@ -411,26 +393,7 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
 
-  <h3>Mystery Gifts</h3>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="1500$">
-    <label for="Davechoice">1 Box - $</label>1500
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="4500$">
-    <label for="Davechoice">3 Boxes - $</label>4500
-    <input type="number" value="1" min="1">
-  </div>
-
-  <div>
-    <input type="checkbox" id="Davechoice" value="6000$">
-    <label for="Davechoice">5 Boxes - $</label>6000
-    <input type="number" value="1" min="1">
-  </div>
-
+  
   
     
   
